@@ -1,2 +1,2 @@
 # pca - python
- projeto interface medidas preventivas do coronavirus
+Será realizado um projeto de programação em python, um jogo para incentivar as medidas de prevenção durante a pandemia.
