@@ -1,0 +1,22 @@
+
+rpython:S1192L"ZDefine a constant instead of duplicating this literal 'ParabÃ©ns, vocÃª acertou!' 6 times.(‰Û¼’
+jpython:S1192"MDefine a constant instead of duplicating this literal 'Dark Green 3' 3 times.(ß ²±ûÿÿÿÿ
+€python:S1192J"âDefine a constant instead of duplicating this literal 'VocÃª errou! A resposta correta era Fake. Estudos jÃ¡ comprovaram que o novo coronavÃ­rus pode sobreviver em diversos tipos diferentes de objetos e superfÃ­cies.' 6 times.(ëÃ‹›ÿÿÿÿÿ
+mpython:S1192"UDefine a constant instead of duplicating this literal 'FalcÃµes MemorÃ¡veis' 3 times.(àû—½
+lpython:S1542"URename function "janelaPrincipal" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ö†øL
+jpython:S1542"RRename function "janelaQuest1" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ùùİş
+opython:S1542 "RRename function "janelaQuest2" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÅÈÚúşÿÿÿÿ
+Vpython:S905;":Remove or refactor this statement; it has no side effects.(Ş÷Œ´ıÿÿÿÿ
+Qpython:S905?":Remove or refactor this statement; it has no side effects.(­ùíÒ
+Qpython:S905I":Remove or refactor this statement; it has no side effects.(­ùíÒ
+Qpython:S905L":Remove or refactor this statement; it has no side effects.(‰Û¼’
+Ppython:S905S":Remove or refactor this statement; it has no side effects.(…—g
+Qpython:S905U":Remove or refactor this statement; it has no side effects.(‰Û¼’
+Ppython:S905\":Remove or refactor this statement; it has no side effects.(…—g
+Qpython:S905^":Remove or refactor this statement; it has no side effects.(‰Û¼’
+Ppython:S905e":Remove or refactor this statement; it has no side effects.(…—g
+Qpython:S905g":Remove or refactor this statement; it has no side effects.(‰Û¼’
+Ppython:S905n":Remove or refactor this statement; it has no side effects.(…—g
+Qpython:S905p":Remove or refactor this statement; it has no side effects.(‰Û¼’
+Ppython:S905w":Remove or refactor this statement; it has no side effects.(…—g
+Qpython:S905y":Remove or refactor this statement; it has no side effects.(‰Û¼’
